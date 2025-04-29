@@ -16,12 +16,18 @@
 <p align="center"> 
     <img src="https://img.shields.io/github/followers/LulietLyan?label=Followers&style=for-the-badge&color=purple"
     alt="github follow"/>
-    <a href="https://github.com/LulietLyan/READMETemplate?tab=stars"> <img src="https://img.shields.io/github/stars/LulietLyan/READMETemplate?label=Stars&style=for-the-badge" height="25px" alt="github repo stars" > </a>
-    <a href="https://github.com/LulietLyan/READMETemplate"> <img src="https://img.shields.io/github/license/LulietLyan/READMETemplate?style=for-the-badge" height="25px" alt="license" > </a>
-    <a href="https://github.com/LulietLyan/READMETemplate"> <img src="https://img.shields.io/github/contributors/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684" height="25px" alt="contributors" > </a>
-    <a href="https://github.com/LulietLyan/READMETemplate"> <img src="https://img.shields.io/github/issues-pr/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684" height="25px" alt="issues-pr" > </a>
-    <a href="https://github.com/LulietLyan/READMETemplate"> <img src="https://img.shields.io/github/issues/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" height="25px" alt="issues" > </a>
-    <a href="https://github.com/LulietLyan/READMETemplate"> <img src="https://img.shields.io/github/forks/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" height="25px" alt="forks" > </a>
+    <img src="https://img.shields.io/github/stars/LulietLyan/READMETemplate?label=Stars&style=for-the-badge"
+    alt="github repo stars" >
+    <img src="https://img.shields.io/github/license/LulietLyan/READMETemplate?style=for-the-badge"
+    alt="license" >
+    <img src="https://img.shields.io/github/contributors/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684"
+    alt="contributors" >
+    <img src="https://img.shields.io/github/issues-pr/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684"
+    alt="issues-pr" >
+    <img src="https://img.shields.io/github/issues/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" 
+    alt="issues" >
+    <img src="https://img.shields.io/github/forks/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" 
+    alt="forks" >
 </p>
 
 <p align="center"> 
