@@ -18,8 +18,6 @@
     alt="github follow"/>
     <img src="https://img.shields.io/github/stars/LulietLyan/READMETemplate?label=Stars&style=for-the-badge"
     alt="github repo stars" >
-    <img src="https://img.shields.io/github/license/LulietLyan/READMETemplate?style=for-the-badge"
-    alt="license" >
     <img src="https://img.shields.io/github/contributors/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684"
     alt="contributors" >
     <img src="https://img.shields.io/github/issues-pr/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684"
@@ -28,6 +26,8 @@
     alt="issues" >
     <img src="https://img.shields.io/github/forks/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" 
     alt="forks" >
+    <img src="https://img.shields.io/github/license/LulietLyan/READMETemplate?style=for-the-badge"
+    alt="license" >
 </p>
 
 <p align="center"> 
