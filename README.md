@@ -3,36 +3,36 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block"><b>🌠 README-Template: A Quickstart For Your Projects</b></h1></summary>
-    <a href="https://github.com/LulietLyan/READMETemplate"><strong>查看文档 »</strong></a>
+    <a href="https://github.com/LulietLyan/README-Template"><strong>查看文档 »</strong></a>
     <br />
-    <a href="https://github.com/LulietLyan/READMETemplate">演示</a>
+    <a href="https://github.com/LulietLyan/README-Template">演示</a>
     &middot;
-    <a href="https://github.com/LulietLyan/READMETemplate/issues/new?labels=bug&template=bug-report---.md">Bugs</a>
+    <a href="https://github.com/LulietLyan/README-Template/issues/new?labels=bug&template=bug-report---.md">Bugs</a>
     &middot;
-    <a href="https://github.com/LulietLyan/READMETemplate/issues/new?labels=enhancement&template=feature-request---.md">特性</a>
+    <a href="https://github.com/LulietLyan/README-Template/issues/new?labels=enhancement&template=feature-request---.md">特性</a>
   </ul>
 </div>
 
 <p align="center"> 
     <img src="https://img.shields.io/github/followers/LulietLyan?label=Followers&style=for-the-badge&color=purple"
     alt="github follow"/>
-    <img src="https://img.shields.io/github/stars/LulietLyan/READMETemplate?label=Stars&style=for-the-badge"
+    <img src="https://img.shields.io/github/stars/LulietLyan/README-Template?label=Stars&style=for-the-badge"
     alt="github repo stars" >
-    <img src="https://img.shields.io/github/contributors/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684"
+    <img src="https://img.shields.io/github/contributors/LulietLyan/README-Template?style=for-the-badge&logoColor=%23985684"
     alt="contributors" >
-    <img src="https://img.shields.io/github/issues-pr/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23985684"
+    <img src="https://img.shields.io/github/issues-pr/LulietLyan/README-Template?style=for-the-badge&logoColor=%23985684"
     alt="issues-pr" >
-    <img src="https://img.shields.io/github/issues/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" 
+    <img src="https://img.shields.io/github/issues/LulietLyan/README-Template?style=for-the-badge&logoColor=%23777777" 
     alt="issues" >
-    <img src="https://img.shields.io/github/forks/LulietLyan/READMETemplate?style=for-the-badge&logoColor=%23777777" 
+    <img src="https://img.shields.io/github/forks/LulietLyan/README-Template?style=for-the-badge&logoColor=%23777777" 
     alt="forks" >
-    <img src="https://img.shields.io/github/license/LulietLyan/READMETemplate?style=for-the-badge"
+    <img src="https://img.shields.io/github/license/LulietLyan/README-Template?style=for-the-badge"
     alt="license" >
 </p>
 
 <p align="center"> 
-<a href="https://github.com/LulietLyan/READMETemplate"><img src="./image/SYSU.svg" height=50pt alt="lulietlyan" /></a>
-<a href="https://github.com/LulietLyan/READMETemplate"><img src="./image/NSCC-GZ.svg" height=50pt alt="lulietlyan" /></a>
+<a href="https://github.com/LulietLyan/README-Template"><img src="./image/SYSU.svg" height=50pt alt="lulietlyan" /></a>
+<a href="https://github.com/LulietLyan/README-Template"><img src="./image/NSCC-GZ.svg" height=50pt alt="lulietlyan" /></a>
 </p>
 
 <img src="./image/line-neon.gif" width=100%><br>
@@ -51,7 +51,7 @@
 
 # 🤔 项目背景
 
-**READMETemplate** 致力于构建一个统一而美观的 README 模板，让您从此无需重复造轮子——这正是本项目的核心价值。
+**README-Template** 致力于构建一个统一而美观的 README 模板，让您从此无需重复造轮子——这正是本项目的核心价值。
 
 ## 设计理念
 
@@ -123,8 +123,8 @@
 
 ## 代码贡献者
 
-<a href="https://github.com/LulietLyan/READMETemplate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LulietLyan/READMETemplate" alt="contrib.rocks image" />
+<a href="https://github.com/LulietLyan/README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LulietLyan/README-Template" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
