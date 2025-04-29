@@ -20,11 +20,11 @@
     alt="github repo stars" >
     <img src="https://img.shields.io/github/contributors/LulietLyan/README-Template?style=for-the-badge&logoColor=%23985684"
     alt="contributors" >
-    <img src="https://img.shields.io/github/issues-pr/LulietLyan/README-Template?style=for-the-badge&logoColor=%23985684"
+    <img src="https://img.shields.io/github/issues-pr/LulietLyan/README-Template?style=for-the-badge&color=%23985684"
     alt="issues-pr" >
-    <img src="https://img.shields.io/github/issues/LulietLyan/README-Template?style=for-the-badge&logoColor=%23777777" 
+    <img src="https://img.shields.io/github/issues/LulietLyan/README-Template?style=for-the-badge&color=%23777777" 
     alt="issues" >
-    <img src="https://img.shields.io/github/forks/LulietLyan/README-Template?style=for-the-badge&logoColor=%23777777" 
+    <img src="https://img.shields.io/github/forks/LulietLyan/README-Template?style=for-the-badge&color=%23187777" 
     alt="forks" >
     <img src="https://img.shields.io/github/license/LulietLyan/README-Template?style=for-the-badge"
     alt="license" >
