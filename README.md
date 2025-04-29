@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><b>🌠 README-Template: Quickstart Your Projects</b></h1></summary>
+    <summary><h1 style="display: inline-block"><b>🌠 README-Template: A Quickstart For Your Projects</b></h1></summary>
     <a href="https://github.com/LulietLyan/READMETemplate"><strong>查看文档 »</strong></a>
     <br />
     <a href="https://github.com/LulietLyan/READMETemplate">演示</a>
